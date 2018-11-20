@@ -8,7 +8,7 @@ Este modelo descreve a relação entre ações da garantia da qualidade (represe
 
 Os principais problemas encontrados no modelo cascata são:
 
-    Os projetos de software reais construídos e evoluídos na indústria de software raramente seguem o fluxo sequencial que o modelo prega. Apesar de que esse modelo em forma sequencial possa conter iterações, onde poderíamos passar diversas vezes pelas mesmas atividades, ele o faz indiretamente. Como resultado tem-se que mudanças podem provocar bastante confusão na medida em que a equipe de projeto prossegue.
+Os projetos de software reais construídos e evoluídos na indústria de software raramente seguem o fluxo sequencial que o modelo prega. Apesar de que esse modelo em forma sequencial possa conter iterações, onde poderíamos passar diversas vezes pelas mesmas atividades, ele o faz indiretamente. Como resultado tem-se que mudanças podem provocar bastante confusão na medida em que a equipe de projeto prossegue.
     É muito raro e difícil para o cliente saber e estabelecer explicitamente todas as suas necessidades. O modelo cascata é muito fortemente baseado nisso e tem dificuldade para adequar a incerteza natural que existem no início dos projetos.
     O cliente precisa ter muita paciência, o que raramente acontece. Uma versão operacional (pronta para ser executada no cliente) não estará disponível até estarmos próximo ao final do projeto. Se tivermos um erro grave nas etapas iniciais, como uma especificação mal compreendida e mal especificada, podemos ter um resultado desastroso.
 
